@@ -1,0 +1,1 @@
+* PKGBUILD repo for EasyArch Welcome Screen application
